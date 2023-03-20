@@ -1,2 +1,3 @@
 # PrimerCurso-Henry
-Este es un repositorio de prueba del modulo 2 del prepcourse de Henry 
+ CARLOS ENRRIQUE LEMUS LESMES 
+ Este proyecto es una prueba de como crear un repositorio y cloanarlo desde github a mi computadora. 
